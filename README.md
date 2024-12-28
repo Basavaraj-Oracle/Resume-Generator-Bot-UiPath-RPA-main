@@ -35,7 +35,7 @@ The objective of this project is to create a resume generator bot that can extra
     
   ![image](https://user-images.githubusercontent.com/113370126/236479520-0c2a5069-7212-4f20-bea2-83f1c272b90f.png)
   
-  Here Final Generated Resume --> [Abhishek Kusalkar.pdf](https://github.com/Abhikar12/Resume-Generator-Bot-UiPath-RPA/files/11406976/Abhishek.Kusalkar.pdf)
+  Here Final Generated Resume --> [Basavaraj_Patil.pdf](https://github.com/Abhikar12/Resume-Generator-Bot-UiPath-RPA/files/11406976/Basavaraj_Patil.pdf)
 
 
     
